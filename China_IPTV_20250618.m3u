@@ -1,0 +1,19 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="cctv1" tvg-name="CCTV-1 综合" group-title="央视",CCTV-1 综合
+http://117.169.120.138:8080/live/CCTV1_1M.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cctv5" tvg-name="CCTV-5 体育" group-title="央视",CCTV-5 体育
+http://111.20.33.93:6610/000000001000/1000000002000012201/index.m3u8?Contentid=1000000002000012201&livemode=1&stbId=3
+
+#EXTINF:-1 tvg-id="hunan" tvg-name="湖南卫视" group-title="卫视",湖南卫视
+http://111.40.196.30:6610/000000001000/1000000006000016001/index.m3u8?Contentid=1000000006000016001&livemode=1&stbId=3
+
+#EXTINF:-1 tvg-id="dragon" tvg-name="东方卫视" group-title="卫视",东方卫视
+http://111.20.33.93:6610/000000001000/1000000006000013101/index.m3u8?Contentid=1000000006000013101&livemode=1&stbId=3
+
+#EXTINF:-1 tvg-id="bbc" tvg-name="BBC World News" group-title="国际",BBC World News
+http://media-ice.musicradio.com/BBC_News_TV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cnn" tvg-name="CNN" group-title="国际",CNN
+http://live.news.cnn.com/CNN/index.m3u8
