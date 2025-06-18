@@ -1,0 +1,31 @@
+#EXTM3U
+
+# ===== 央视频道 =====
+#EXTINF:-1 tvg-id="cctv1" tvg-name="CCTV-1 综合" group-title="央视",CCTV-1 综合
+https://livegood.ixigua.com/stream/5348305a31594ad3b1fd4b144dc7a731.m3u8
+
+#EXTINF:-1 tvg-id="cctv5" tvg-name="CCTV-5 体育" group-title="央视",CCTV-5 体育
+https://livegood.ixigua.com/stream/ed5deba5624a409cbec17fd7d839ee1b.m3u8
+
+#EXTINF:-1 tvg-id="cctv13" tvg-name="CCTV-13 新闻" group-title="央视",CCTV-13 新闻
+https://livegood.ixigua.com/stream/65d1f0e3c139460798cb5caad419acf6.m3u8
+
+# ===== 卫视频道 =====
+#EXTINF:-1 tvg-id="hunan" tvg-name="湖南卫视" group-title="卫视",湖南卫视
+https://pulltv5.vzan.com/930342110.m3u8
+
+#EXTINF:-1 tvg-id="dongfang" tvg-name="东方卫视" group-title="卫视",东方卫视
+https://live.goodiptv.club/live/dongfang.m3u8
+
+#EXTINF:-1 tvg-id="zhejiang" tvg-name="浙江卫视" group-title="卫视",浙江卫视
+https://pulltv1.vzan.com/603338086.m3u8
+
+#EXTINF:-1 tvg-id="jsws" tvg-name="江苏卫视" group-title="卫视",江苏卫视
+https://pulltv3.vzan.com/157184709.m3u8
+
+#EXTINF:-1 tvg-id="bingtuan" tvg-name="新疆兵团卫视" group-title="卫视",新疆兵团卫视
+https://livelist.goodiptv.club/live/bingtuan.m3u8
+
+# ===== 备用频道 =====
+#EXTINF:-1 tvg-id="cctv8" tvg-name="CCTV-8 电视剧" group-title="央视",CCTV-8 电视剧
+https://live.goodiptv.club/live/cctv8.m3u8
